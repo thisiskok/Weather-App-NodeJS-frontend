@@ -1,0 +1,14 @@
+{
+  "name": "weather-app-frontend",
+  "version": "1.0.0",
+  "description": "Weather App Frontend",
+  "scripts": {
+    "start": "serve -s public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+} 
