@@ -11,10 +11,6 @@ Project: https://weather-app-using-node-js-vercel.vercel.app/
 
 📅 Current Weather: Get real-time temperature, humidity, and weather conditions.
 
-🔮 Forecast: View the 5-day weather forecast.
-
-🌑 Dark Mode: Toggle between light and dark themes.
-
 📍 Location Detection: Automatically detect user location for weather updates.
 
 
@@ -24,4 +20,4 @@ Backend: Node.js, Express
 
 Frontend: React, Bootstrap
 
-API: OpenWeatherMap API
+API: OpenWeatherMap
